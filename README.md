@@ -16,5 +16,3 @@ This tool demonstrates advanced techniques used by APT (Advanced Persistent Thre
 *   Must be run as **Administrator**
 *   Target process: `notepad.exe` (must be running)
 
-## Disclaimer
-This tool is for educational and security research purposes only. The author is not responsible for any illegal or malicious use. Test strictly in an isolated Virtual Machine (VM).
