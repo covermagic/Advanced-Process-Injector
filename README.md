@@ -1,4 +1,4 @@
-# Advanced Process Injector v2.0 (PoC)
+# Advanced Process Injector (PoC)
 
 A stealthier Proof-of-Concept for Process Injection in C++, developed for Red Team operations and Malware Analysis research.
 
